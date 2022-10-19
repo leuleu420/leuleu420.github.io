@@ -1,4 +1,5 @@
-#API de tokenization
+/* API de tokenization 
+https://rapidapi.com/fr/dwi.rizki.irawan/api/linguist/ */
 
 const axios = require("axios");
 
